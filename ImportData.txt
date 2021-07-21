@@ -1,0 +1,21 @@
+CH01/Breast Boneless/Chicken/4/Available/660
+CH02/Leg Boneless/Chicken/3/Not Available/550
+CH03/Lollipop/Chicken/8/Available/320
+CH04/Wings/Chicken/9/Available/780
+CH05/Drumsticks/Chicken/3/Available/500
+CH06/Liver/Chicken/2/Available/200
+CH07/Gizzard/Chicken/10/Available/330
+CH08/Diced/Chicken/2/Not Available/900
+BF01/Tenderloin/Buffalo/7/Available/690
+BF02/Chuck/Buffalo/3/Available/400
+BF03/Brisket/Buffalo/2/Not Available/280
+FS01/Fillet/Fish/8/Available/650
+FS02/Steak/Fish/4/Available/100
+PR01/Belly/Pork/5/Not Available/1900
+PR02/Loin/Pork/3/Available/1100
+PR03/Ham/Pork/4/Available/800
+PR04/Spare Rib/Pork/9/Available/1500
+PR05/Bacon/Pork/3/Available/1200
+MT01/Ribs/Mutton/6/Available/1300
+MT02/Flank/Mutton/2/Not Available/2000
+MT03/Shoulder/Mutton/4/Not Available/2200
